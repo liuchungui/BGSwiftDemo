@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:7&#x3001;CATextLayer/7&#x3001;CATextLayer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:6&#x3001;&#x989c;&#x8272;&#x6539;&#x53d8;&#x7684;&#x52a8;&#x753b;/6&#x3001;&#x989c;&#x8272;&#x6539;&#x53d8;&#x7684;&#x52a8;&#x753b;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:5&#x3001;&#x5f39;&#x6027;&#x52a8;&#x753b;/5&#x3001;&#x5f39;&#x6027;&#x52a8;&#x753b;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:4&#x3001;Transition/4&#x3001;Transition.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:3&#x3001;CAAniamtionGroup/3&#x3001;CAAniamtionGroup.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:2&#x3001;CAKeyframeAnimation/2&#x3001;CAKeyframeAnimation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:1&#x3001;CABasicAnimation/1&#x3001;CABasicAnimation.xcodeproj">
+   </FileRef>
+</Workspace>
